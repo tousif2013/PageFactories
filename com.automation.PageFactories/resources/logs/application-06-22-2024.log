@@ -1,0 +1,35 @@
+22/06/2024 23:54:51 devpinoyLogger Config file loaded
+22/06/2024 23:54:51 devpinoyLogger OR file loaded
+22/06/2024 23:54:52 devpinoyLogger Chrome instance created
+22/06/2024 23:54:54 devpinoyLogger Navigated to URL
+22/06/2024 23:54:54 devpinoyLogger Browser maximized
+22/06/2024 23:54:54 devpinoyLogger Inside login test 
+22/06/2024 23:54:55 devpinoyLogger element is presentLOGINBUTTON_Css
+22/06/2024 23:54:55 devpinoyLogger entered loadermethoddisplay: block;
+22/06/2024 23:54:55 devpinoyLogger Loader is present
+22/06/2024 23:54:59 devpinoyLogger Executing NavigateToBuyer
+22/06/2024 23:54:59 devpinoyLogger buyer name is MAYTOU
+22/06/2024 23:54:59 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (46e6553f9d936afa0482014789b8763a)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+22/06/2024 23:55:00 devpinoyLogger entered loadermethoddisplay: block;
+22/06/2024 23:55:00 devpinoyLogger Loader is present
+22/06/2024 23:55:02 devpinoyLogger Loader is not visible after: 2428 ms
+22/06/2024 23:55:02 devpinoyLogger entered loadermethoddisplay: none;
+22/06/2024 23:55:02 devpinoyLogger Loader is not present, checked in: 0 ms
+22/06/2024 23:55:02 devpinoyLogger clicked on textfield
+22/06/2024 23:55:02 devpinoyLogger entered the buyer name
+22/06/2024 23:55:02 devpinoyLogger entered loadermethoddisplay: none;
+22/06/2024 23:55:02 devpinoyLogger Loader is not present, checked in: 0 ms
+22/06/2024 23:55:02 devpinoyLogger entered loadermethoddisplay: none;
+22/06/2024 23:55:02 devpinoyLogger Loader is not present, checked in: 0 ms
+22/06/2024 23:55:05 devpinoyLogger entered loadermethoddisplay: none;
+22/06/2024 23:55:05 devpinoyLogger Loader is not present, checked in: 0 ms
+22/06/2024 23:55:06 devpinoyLogger Browser closed
+22/06/2024 23:58:07 devpinoyLogger Config file loaded
+22/06/2024 23:58:07 devpinoyLogger OR file loaded
+22/06/2024 23:58:08 devpinoyLogger Chrome instance created
+22/06/2024 23:58:10 devpinoyLogger Navigated to URL
+22/06/2024 23:58:10 devpinoyLogger Browser maximized
+22/06/2024 23:58:10 devpinoyLogger Inside login test 
+22/06/2024 23:58:10 devpinoyLogger element is presentLOGINBUTTON_Css
+22/06/2024 23:58:10 devpinoyLogger entered loadermethoddisplay: block;
+22/06/2024 23:58:11 devpinoyLogger Loader is present

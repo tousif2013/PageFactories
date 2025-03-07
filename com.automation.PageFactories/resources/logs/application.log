@@ -1,0 +1,26 @@
+02/07/2024 21:03:07 devpinoyLogger Config file loaded
+02/07/2024 21:03:07 devpinoyLogger OR file loaded
+02/07/2024 21:03:09 devpinoyLogger Chrome instance created
+02/07/2024 21:03:11 devpinoyLogger Navigated to URL
+02/07/2024 21:03:11 devpinoyLogger Browser maximized
+02/07/2024 21:03:11 devpinoyLogger Total rows in Suite sheet: 3
+02/07/2024 21:03:11 devpinoyLogger Checking testcase at row 1: login
+02/07/2024 21:03:11 devpinoyLogger false
+02/07/2024 21:03:11 devpinoyLogger Total rows in Suite sheet: 3
+02/07/2024 21:03:11 devpinoyLogger Checking testcase at row 1: login
+02/07/2024 21:03:12 devpinoyLogger Inside login test 
+02/07/2024 21:03:12 devpinoyLogger element is presentLOGINBUTTON_Css
+02/07/2024 21:03:12 devpinoyLogger clicked on elementLOGINBUTTON_Css
+02/07/2024 21:03:12 devpinoyLogger Total rows in Suite sheet: 3
+02/07/2024 21:03:12 devpinoyLogger Checking testcase at row 1: login
+02/07/2024 21:03:12 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+02/07/2024 21:03:12 devpinoyLogger false
+02/07/2024 21:03:12 devpinoyLogger Total rows in Suite sheet: 3
+02/07/2024 21:03:12 devpinoyLogger Checking testcase at row 1: login
+02/07/2024 21:03:12 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+02/07/2024 21:03:15 devpinoyLogger Executing NavigateToBuyer
+02/07/2024 21:03:15 devpinoyLogger buyer name is MAYTOU
+02/07/2024 21:03:15 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (8e5e2d04b57e6fb9f87eff25578467f7)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+02/07/2024 21:03:15 devpinoyLogger entered loadermethoddisplay: block;
+02/07/2024 21:03:20 devpinoyLogger Loader is present
+02/07/2024 21:03:21 devpinoyLogger Loader is not visible after: 1039 ms

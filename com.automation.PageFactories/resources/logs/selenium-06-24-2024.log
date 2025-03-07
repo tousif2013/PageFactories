@@ -1,0 +1,3 @@
+12:00:24,812 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:00:24,830 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:00:24,834 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels

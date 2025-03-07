@@ -1,0 +1,683 @@
+23/06/2024 16:24:18 devpinoyLogger Config file loaded
+23/06/2024 16:24:18 devpinoyLogger OR file loaded
+23/06/2024 16:24:20 devpinoyLogger Chrome instance created
+23/06/2024 16:24:22 devpinoyLogger Navigated to URL
+23/06/2024 16:24:22 devpinoyLogger Browser maximized
+23/06/2024 16:24:22 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:24:22 devpinoyLogger Checking testcase: Login_test
+23/06/2024 16:24:22 devpinoyLogger Checking testcase: NavigateToBuyer
+23/06/2024 16:24:22 devpinoyLogger Checking testcase: 
+23/06/2024 16:24:22 devpinoyLogger true
+23/06/2024 16:24:22 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:24:22 devpinoyLogger Checking testcase: Login_test
+23/06/2024 16:24:22 devpinoyLogger Checking testcase: NavigateToBuyer
+23/06/2024 16:24:22 devpinoyLogger Checking testcase: 
+23/06/2024 16:24:22 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:24:22 devpinoyLogger Checking testcase: Login_test
+23/06/2024 16:24:22 devpinoyLogger Checking testcase: NavigateToBuyer
+23/06/2024 16:24:22 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 16:24:22 devpinoyLogger false
+23/06/2024 16:24:22 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:24:22 devpinoyLogger Checking testcase: Login_test
+23/06/2024 16:24:22 devpinoyLogger Checking testcase: NavigateToBuyer
+23/06/2024 16:24:22 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 16:24:25 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 16:24:25 devpinoyLogger buyer name is MAYTOU
+23/06/2024 16:28:03 devpinoyLogger Config file loaded
+23/06/2024 16:28:03 devpinoyLogger OR file loaded
+23/06/2024 16:28:06 devpinoyLogger Chrome instance created
+23/06/2024 16:28:08 devpinoyLogger Navigated to URL
+23/06/2024 16:28:08 devpinoyLogger Browser maximized
+23/06/2024 16:28:08 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:28:08 devpinoyLogger Checking testcase: Login_test
+23/06/2024 16:28:08 devpinoyLogger Checking testcase: NavigateToBuyer
+23/06/2024 16:28:08 devpinoyLogger Checking testcase: 
+23/06/2024 16:28:08 devpinoyLogger true
+23/06/2024 16:28:08 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:28:08 devpinoyLogger Checking testcase: Login_test
+23/06/2024 16:28:08 devpinoyLogger Checking testcase: NavigateToBuyer
+23/06/2024 16:28:08 devpinoyLogger Checking testcase: 
+23/06/2024 16:28:08 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:28:08 devpinoyLogger Checking testcase: Login_test
+23/06/2024 16:28:08 devpinoyLogger Checking testcase: NavigateToBuyer
+23/06/2024 16:28:08 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 16:28:08 devpinoyLogger false
+23/06/2024 16:28:08 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:28:08 devpinoyLogger Checking testcase: Login_test
+23/06/2024 16:28:08 devpinoyLogger Checking testcase: NavigateToBuyer
+23/06/2024 16:28:08 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 16:28:11 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 16:28:11 devpinoyLogger buyer name is MAYTOU
+23/06/2024 16:31:40 devpinoyLogger Config file loaded
+23/06/2024 16:31:40 devpinoyLogger OR file loaded
+23/06/2024 16:31:42 devpinoyLogger Chrome instance created
+23/06/2024 16:31:45 devpinoyLogger Navigated to URL
+23/06/2024 16:31:45 devpinoyLogger Browser maximized
+23/06/2024 16:31:45 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:31:45 devpinoyLogger Checking testcase at row 1: Login_test
+23/06/2024 16:31:45 devpinoyLogger Checking testcase at row 2: NavigateToBuyer
+23/06/2024 16:31:45 devpinoyLogger Checking testcase at row 3: 
+23/06/2024 16:31:45 devpinoyLogger Testname not found: login
+23/06/2024 16:31:45 devpinoyLogger true
+23/06/2024 16:31:45 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:31:45 devpinoyLogger Checking testcase at row 1: Login_test
+23/06/2024 16:31:45 devpinoyLogger Checking testcase at row 2: NavigateToBuyer
+23/06/2024 16:31:45 devpinoyLogger Checking testcase at row 3: 
+23/06/2024 16:31:45 devpinoyLogger Testname not found: login
+23/06/2024 16:31:46 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:31:46 devpinoyLogger Checking testcase at row 1: Login_test
+23/06/2024 16:31:46 devpinoyLogger Checking testcase at row 2: NavigateToBuyer
+23/06/2024 16:31:46 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 16:31:46 devpinoyLogger false
+23/06/2024 16:31:46 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:31:46 devpinoyLogger Checking testcase at row 1: Login_test
+23/06/2024 16:31:46 devpinoyLogger Checking testcase at row 2: NavigateToBuyer
+23/06/2024 16:31:46 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 16:36:06 devpinoyLogger Config file loaded
+23/06/2024 16:36:06 devpinoyLogger OR file loaded
+23/06/2024 16:36:08 devpinoyLogger Chrome instance created
+23/06/2024 16:36:11 devpinoyLogger Navigated to URL
+23/06/2024 16:36:11 devpinoyLogger Browser maximized
+23/06/2024 16:36:11 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:36:11 devpinoyLogger Checking testcase at row 1: Login_test
+23/06/2024 16:36:11 devpinoyLogger Checking testcase at row 2: NavigateToBuyer
+23/06/2024 16:36:11 devpinoyLogger Checking testcase at row 3: 
+23/06/2024 16:36:11 devpinoyLogger Testname not found: login
+23/06/2024 16:36:11 devpinoyLogger true
+23/06/2024 16:36:11 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:36:11 devpinoyLogger Checking testcase at row 1: Login_test
+23/06/2024 16:36:11 devpinoyLogger Checking testcase at row 2: NavigateToBuyer
+23/06/2024 16:36:11 devpinoyLogger Checking testcase at row 3: 
+23/06/2024 16:36:11 devpinoyLogger Testname not found: login
+23/06/2024 16:36:11 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:36:11 devpinoyLogger Checking testcase at row 1: Login_test
+23/06/2024 16:36:11 devpinoyLogger Checking testcase at row 2: NavigateToBuyer
+23/06/2024 16:36:11 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 16:36:11 devpinoyLogger false
+23/06/2024 16:36:11 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:36:11 devpinoyLogger Checking testcase at row 1: Login_test
+23/06/2024 16:36:11 devpinoyLogger Checking testcase at row 2: NavigateToBuyer
+23/06/2024 16:36:11 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 16:36:14 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 16:36:14 devpinoyLogger buyer name is MAYTOU
+23/06/2024 16:48:19 devpinoyLogger Config file loaded
+23/06/2024 16:48:19 devpinoyLogger OR file loaded
+23/06/2024 16:48:21 devpinoyLogger Chrome instance created
+23/06/2024 16:48:25 devpinoyLogger Navigated to URL
+23/06/2024 16:48:25 devpinoyLogger Browser maximized
+23/06/2024 16:48:27 devpinoyLogger Browser closed
+23/06/2024 16:53:55 devpinoyLogger Config file loaded
+23/06/2024 16:53:55 devpinoyLogger OR file loaded
+23/06/2024 16:53:57 devpinoyLogger Chrome instance created
+23/06/2024 16:54:00 devpinoyLogger Navigated to URL
+23/06/2024 16:54:00 devpinoyLogger Browser maximized
+23/06/2024 16:54:00 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:54:00 devpinoyLogger Checking testcase at row 1: Login_test
+23/06/2024 16:54:00 devpinoyLogger Checking testcase at row 2: NavigateToBuyer
+23/06/2024 16:54:00 devpinoyLogger Checking testcase at row 3: 
+23/06/2024 16:54:00 devpinoyLogger Testname not found: login
+23/06/2024 16:54:00 devpinoyLogger true
+23/06/2024 16:54:00 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:54:00 devpinoyLogger Checking testcase at row 1: Login_test
+23/06/2024 16:54:00 devpinoyLogger Checking testcase at row 2: NavigateToBuyer
+23/06/2024 16:54:00 devpinoyLogger Checking testcase at row 3: 
+23/06/2024 16:54:00 devpinoyLogger Testname not found: login
+23/06/2024 16:54:00 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:54:00 devpinoyLogger Checking testcase at row 1: Login_test
+23/06/2024 16:54:00 devpinoyLogger Checking testcase at row 2: NavigateToBuyer
+23/06/2024 16:54:00 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 16:54:00 devpinoyLogger false
+23/06/2024 16:54:00 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:54:00 devpinoyLogger Checking testcase at row 1: Login_test
+23/06/2024 16:54:00 devpinoyLogger Checking testcase at row 2: NavigateToBuyer
+23/06/2024 16:54:00 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 16:54:03 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 16:54:03 devpinoyLogger buyer name is MAYTOU
+23/06/2024 16:55:50 devpinoyLogger Config file loaded
+23/06/2024 16:55:50 devpinoyLogger OR file loaded
+23/06/2024 16:55:53 devpinoyLogger Chrome instance created
+23/06/2024 16:55:53 devpinoyLogger Navigated to URL
+23/06/2024 16:55:57 devpinoyLogger Browser maximized
+23/06/2024 16:55:57 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:55:57 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 16:55:57 devpinoyLogger Runmode for login: Y
+23/06/2024 16:55:57 devpinoyLogger false
+23/06/2024 16:55:57 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:55:57 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 16:55:57 devpinoyLogger Runmode for login: Y
+23/06/2024 16:55:57 devpinoyLogger Inside login test 
+23/06/2024 16:55:57 devpinoyLogger element is presentLOGINBUTTON_Css
+23/06/2024 16:55:57 devpinoyLogger clicked on elementLOGINBUTTON_Css
+23/06/2024 16:55:59 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:55:59 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 16:55:59 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 16:55:59 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 16:55:59 devpinoyLogger false
+23/06/2024 16:55:59 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 16:55:59 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 16:55:59 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 16:55:59 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 16:56:02 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 16:56:02 devpinoyLogger buyer name is MAYTOU
+23/06/2024 16:56:02 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (bad909181936a80ed5f4f73998541eef)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 16:56:02 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 16:56:07 devpinoyLogger Loader is present
+23/06/2024 16:56:08 devpinoyLogger Loader is not visible after: 1060 ms
+23/06/2024 16:56:09 devpinoyLogger clicked on textfield
+23/06/2024 16:56:09 devpinoyLogger entered the buyer name
+23/06/2024 17:08:24 devpinoyLogger Config file loaded
+23/06/2024 17:08:24 devpinoyLogger OR file loaded
+23/06/2024 17:08:27 devpinoyLogger Chrome instance created
+23/06/2024 17:08:27 devpinoyLogger Navigated to URL
+23/06/2024 17:08:31 devpinoyLogger Browser maximized
+23/06/2024 17:08:31 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 17:08:31 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 17:08:31 devpinoyLogger Runmode for login: Y
+23/06/2024 17:08:31 devpinoyLogger false
+23/06/2024 17:08:31 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 17:08:31 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 17:08:31 devpinoyLogger Runmode for login: Y
+23/06/2024 17:08:31 devpinoyLogger Inside login test 
+23/06/2024 17:08:31 devpinoyLogger element is presentLOGINBUTTON_Css
+23/06/2024 17:08:31 devpinoyLogger clicked on elementLOGINBUTTON_Css
+23/06/2024 17:08:32 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 17:08:32 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 17:08:32 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 17:08:32 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 17:08:32 devpinoyLogger false
+23/06/2024 17:08:32 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 17:08:32 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 17:08:32 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 17:08:32 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 17:08:35 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 17:08:35 devpinoyLogger buyer name is MAYTOU
+23/06/2024 17:08:35 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (29b4d830b32c56a673865d232d124ff7)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 17:08:35 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 17:08:40 devpinoyLogger Loader is present
+23/06/2024 17:08:41 devpinoyLogger Loader is not visible after: 1041 ms
+23/06/2024 17:08:42 devpinoyLogger clicked on textfield
+23/06/2024 17:08:42 devpinoyLogger entered the buyer name
+23/06/2024 19:00:02 devpinoyLogger Config file loaded
+23/06/2024 19:00:02 devpinoyLogger OR file loaded
+23/06/2024 19:00:05 devpinoyLogger Chrome instance created
+23/06/2024 19:00:08 devpinoyLogger Navigated to URL
+23/06/2024 19:00:08 devpinoyLogger Browser maximized
+23/06/2024 19:00:08 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:00:08 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:00:08 devpinoyLogger Runmode for login: Y
+23/06/2024 19:00:08 devpinoyLogger false
+23/06/2024 19:00:08 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:00:08 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:00:08 devpinoyLogger Runmode for login: Y
+23/06/2024 19:00:08 devpinoyLogger Inside login test 
+23/06/2024 19:00:08 devpinoyLogger element is presentLOGINBUTTON_Css
+23/06/2024 19:00:09 devpinoyLogger clicked on elementLOGINBUTTON_Css
+23/06/2024 19:00:10 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:00:10 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:00:10 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 19:00:10 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 19:00:10 devpinoyLogger false
+23/06/2024 19:00:10 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:00:10 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:00:10 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 19:00:10 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 19:00:13 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 19:00:13 devpinoyLogger buyer name is MAYTOU
+23/06/2024 19:00:13 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (2b658df9b7297861cdb65772d15f914e)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 19:00:13 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 19:00:18 devpinoyLogger Loader is present
+23/06/2024 19:00:19 devpinoyLogger Loader is not visible after: 1032 ms
+23/06/2024 19:00:19 devpinoyLogger clicked on textfield
+23/06/2024 19:00:19 devpinoyLogger entered the buyer name
+23/06/2024 19:08:57 devpinoyLogger Config file loaded
+23/06/2024 19:08:57 devpinoyLogger OR file loaded
+23/06/2024 19:08:59 devpinoyLogger Chrome instance created
+23/06/2024 19:09:00 devpinoyLogger Navigated to URL
+23/06/2024 19:09:02 devpinoyLogger Browser maximized
+23/06/2024 19:09:02 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:09:02 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:09:02 devpinoyLogger Runmode for login: Y
+23/06/2024 19:09:02 devpinoyLogger false
+23/06/2024 19:09:02 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:09:02 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:09:02 devpinoyLogger Runmode for login: Y
+23/06/2024 19:09:02 devpinoyLogger Inside login test 
+23/06/2024 19:09:03 devpinoyLogger element is presentLOGINBUTTON_Css
+23/06/2024 19:09:03 devpinoyLogger clicked on elementLOGINBUTTON_Css
+23/06/2024 19:09:04 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:09:04 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:09:04 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 19:09:04 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 19:09:04 devpinoyLogger false
+23/06/2024 19:09:04 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:09:04 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:09:04 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 19:09:04 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 19:09:07 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 19:09:07 devpinoyLogger buyer name is MAYTOU
+23/06/2024 19:09:07 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (ee99925dbbe439e390bfa463ffa8b453)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 19:09:07 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 19:09:12 devpinoyLogger Loader is present
+23/06/2024 19:09:13 devpinoyLogger Loader is not visible after: 1035 ms
+23/06/2024 19:09:13 devpinoyLogger clicked on textfield
+23/06/2024 19:09:13 devpinoyLogger entered the buyer name
+23/06/2024 19:09:40 devpinoyLogger Browser closed
+23/06/2024 19:37:56 devpinoyLogger Config file loaded
+23/06/2024 19:37:56 devpinoyLogger OR file loaded
+23/06/2024 19:37:59 devpinoyLogger Chrome instance created
+23/06/2024 19:38:02 devpinoyLogger Navigated to URL
+23/06/2024 19:38:02 devpinoyLogger Browser maximized
+23/06/2024 19:38:02 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:38:02 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:38:02 devpinoyLogger Runmode for login: Y
+23/06/2024 19:38:02 devpinoyLogger false
+23/06/2024 19:38:02 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:38:02 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:38:02 devpinoyLogger Runmode for login: Y
+23/06/2024 19:38:02 devpinoyLogger Inside login test 
+23/06/2024 19:38:02 devpinoyLogger element is presentLOGINBUTTON_Css
+23/06/2024 19:38:03 devpinoyLogger clicked on elementLOGINBUTTON_Css
+23/06/2024 19:38:03 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:38:03 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:38:03 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 19:38:03 devpinoyLogger Runmode for navigatetobuyer: N
+23/06/2024 19:38:03 devpinoyLogger true
+23/06/2024 19:38:03 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:38:03 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:38:03 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 19:38:03 devpinoyLogger Runmode for navigatetobuyer: N
+23/06/2024 19:38:04 devpinoyLogger Browser closed
+23/06/2024 19:38:52 devpinoyLogger Config file loaded
+23/06/2024 19:38:52 devpinoyLogger OR file loaded
+23/06/2024 19:38:55 devpinoyLogger Chrome instance created
+23/06/2024 19:38:58 devpinoyLogger Navigated to URL
+23/06/2024 19:38:58 devpinoyLogger Browser maximized
+23/06/2024 19:38:58 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:38:58 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:38:58 devpinoyLogger Runmode for login: Y
+23/06/2024 19:38:58 devpinoyLogger false
+23/06/2024 19:38:58 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:38:58 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:38:58 devpinoyLogger Runmode for login: Y
+23/06/2024 19:38:58 devpinoyLogger Inside login test 
+23/06/2024 19:38:58 devpinoyLogger element is presentLOGINBUTTON_Css
+23/06/2024 19:38:58 devpinoyLogger clicked on elementLOGINBUTTON_Css
+23/06/2024 19:38:59 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:38:59 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:38:59 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 19:38:59 devpinoyLogger Runmode for navigatetobuyer: N
+23/06/2024 19:38:59 devpinoyLogger true
+23/06/2024 19:38:59 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:38:59 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:38:59 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 19:38:59 devpinoyLogger Runmode for navigatetobuyer: N
+23/06/2024 19:39:00 devpinoyLogger Browser closed
+23/06/2024 19:39:30 devpinoyLogger Config file loaded
+23/06/2024 19:39:30 devpinoyLogger OR file loaded
+23/06/2024 19:39:32 devpinoyLogger Chrome instance created
+23/06/2024 19:39:34 devpinoyLogger Navigated to URL
+23/06/2024 19:39:34 devpinoyLogger Browser maximized
+23/06/2024 19:39:34 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:39:34 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:39:34 devpinoyLogger Runmode for login: Y
+23/06/2024 19:39:34 devpinoyLogger false
+23/06/2024 19:39:34 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:39:34 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:39:34 devpinoyLogger Runmode for login: Y
+23/06/2024 19:39:35 devpinoyLogger Inside login test 
+23/06/2024 19:39:35 devpinoyLogger element is presentLOGINBUTTON_Css
+23/06/2024 19:39:35 devpinoyLogger clicked on elementLOGINBUTTON_Css
+23/06/2024 19:39:36 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:39:36 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:39:36 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 19:39:36 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 19:39:36 devpinoyLogger false
+23/06/2024 19:39:36 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:39:36 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:39:36 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 19:39:36 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 19:39:39 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 19:39:39 devpinoyLogger buyer name is MAYTOU
+23/06/2024 19:39:39 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (8d01fcadf805349c452f2df29eafcefe)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 19:39:39 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 19:39:44 devpinoyLogger Loader is present
+23/06/2024 19:39:45 devpinoyLogger Loader is not visible after: 1098 ms
+23/06/2024 19:39:45 devpinoyLogger clicked on textfield
+23/06/2024 19:39:45 devpinoyLogger entered the buyer name
+23/06/2024 19:39:57 devpinoyLogger Browser closed
+23/06/2024 19:40:47 devpinoyLogger Config file loaded
+23/06/2024 19:40:47 devpinoyLogger OR file loaded
+23/06/2024 19:40:50 devpinoyLogger Chrome instance created
+23/06/2024 19:40:52 devpinoyLogger Navigated to URL
+23/06/2024 19:40:52 devpinoyLogger Browser maximized
+23/06/2024 19:40:53 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:40:53 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:40:53 devpinoyLogger Runmode for login: Y
+23/06/2024 19:40:53 devpinoyLogger false
+23/06/2024 19:40:53 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:40:53 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:40:53 devpinoyLogger Runmode for login: Y
+23/06/2024 19:40:53 devpinoyLogger Inside login test 
+23/06/2024 19:40:53 devpinoyLogger element is presentLOGINBUTTON_Css
+23/06/2024 19:40:53 devpinoyLogger clicked on elementLOGINBUTTON_Css
+23/06/2024 19:40:54 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:40:54 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:40:54 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 19:40:54 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 19:40:54 devpinoyLogger false
+23/06/2024 19:40:54 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 19:40:54 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 19:40:54 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 19:40:54 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 19:40:57 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 19:40:57 devpinoyLogger buyer name is MAYTOU
+23/06/2024 19:40:57 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (6ca53a5839f821de822e598bc5fa54e9)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 19:40:57 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 19:41:02 devpinoyLogger Loader is present
+23/06/2024 19:41:03 devpinoyLogger Loader is not visible after: 1035 ms
+23/06/2024 19:41:03 devpinoyLogger clicked on textfield
+23/06/2024 19:41:03 devpinoyLogger entered the buyer name
+23/06/2024 19:41:13 devpinoyLogger Browser closed
+23/06/2024 20:18:52 devpinoyLogger Config file loaded
+23/06/2024 20:18:52 devpinoyLogger OR file loaded
+23/06/2024 20:18:55 devpinoyLogger Chrome instance created
+23/06/2024 20:18:57 devpinoyLogger Navigated to URL
+23/06/2024 20:18:57 devpinoyLogger Browser maximized
+23/06/2024 20:18:57 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:18:57 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:18:57 devpinoyLogger Runmode for login: Y
+23/06/2024 20:18:57 devpinoyLogger false
+23/06/2024 20:18:57 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:18:57 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:18:57 devpinoyLogger Runmode for login: Y
+23/06/2024 20:18:57 devpinoyLogger Inside login test 
+23/06/2024 20:18:58 devpinoyLogger element is presentLOGINBUTTON_Css
+23/06/2024 20:18:58 devpinoyLogger clicked on elementLOGINBUTTON_Css
+23/06/2024 20:18:59 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:18:59 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:18:59 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:18:59 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:18:59 devpinoyLogger false
+23/06/2024 20:18:59 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:18:59 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:18:59 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:18:59 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:19:02 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 20:19:02 devpinoyLogger buyer name is MAYTOU
+23/06/2024 20:19:02 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (df23b0cfab1bc51f82312d6efbd2047d)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 20:19:02 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 20:19:07 devpinoyLogger Loader is present
+23/06/2024 20:19:08 devpinoyLogger Loader is not visible after: 1034 ms
+23/06/2024 20:19:08 devpinoyLogger clicked on textfield
+23/06/2024 20:19:09 devpinoyLogger entered the buyer name
+23/06/2024 20:19:18 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:19:18 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:19:18 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:19:18 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:19:18 devpinoyLogger false
+23/06/2024 20:19:18 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:19:18 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:19:18 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:19:18 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:19:21 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 20:19:21 devpinoyLogger buyer name is TOU1April
+23/06/2024 20:19:21 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (df23b0cfab1bc51f82312d6efbd2047d)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 20:19:21 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 20:19:26 devpinoyLogger Loader is present
+23/06/2024 20:19:27 devpinoyLogger Loader is not visible after: 1065 ms
+23/06/2024 20:19:27 devpinoyLogger clicked on textfield
+23/06/2024 20:19:27 devpinoyLogger entered the buyer name
+23/06/2024 20:19:35 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:19:35 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:19:35 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:19:35 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:19:35 devpinoyLogger false
+23/06/2024 20:19:35 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:19:35 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:19:35 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:19:35 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:19:38 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 20:19:38 devpinoyLogger buyer name is Noise India
+23/06/2024 20:19:38 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (df23b0cfab1bc51f82312d6efbd2047d)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 20:19:38 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 20:19:43 devpinoyLogger Loader is present
+23/06/2024 20:19:44 devpinoyLogger Loader is not visible after: 1034 ms
+23/06/2024 20:19:45 devpinoyLogger clicked on textfield
+23/06/2024 20:19:45 devpinoyLogger entered the buyer name
+23/06/2024 20:19:53 devpinoyLogger Browser closed
+23/06/2024 20:20:47 devpinoyLogger Config file loaded
+23/06/2024 20:20:47 devpinoyLogger OR file loaded
+23/06/2024 20:20:50 devpinoyLogger Chrome instance created
+23/06/2024 20:20:53 devpinoyLogger Navigated to URL
+23/06/2024 20:20:53 devpinoyLogger Browser maximized
+23/06/2024 20:20:53 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:20:53 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:20:53 devpinoyLogger Runmode for login: Y
+23/06/2024 20:20:53 devpinoyLogger false
+23/06/2024 20:20:53 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:20:53 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:20:53 devpinoyLogger Runmode for login: Y
+23/06/2024 20:20:53 devpinoyLogger Inside login test 
+23/06/2024 20:20:54 devpinoyLogger element is presentLOGINBUTTON_Css
+23/06/2024 20:20:54 devpinoyLogger clicked on elementLOGINBUTTON_Css
+23/06/2024 20:20:55 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:20:55 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:20:55 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:20:55 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:20:55 devpinoyLogger false
+23/06/2024 20:20:55 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:20:55 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:20:55 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:20:55 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:20:58 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 20:20:58 devpinoyLogger buyer name is MAYTOU
+23/06/2024 20:20:58 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (1abbb50937ccbd013eb4381b6b77a93f)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 20:20:58 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 20:21:03 devpinoyLogger Loader is present
+23/06/2024 20:21:04 devpinoyLogger Loader is not visible after: 1052 ms
+23/06/2024 20:21:04 devpinoyLogger clicked on textfield
+23/06/2024 20:21:04 devpinoyLogger entered the buyer name
+23/06/2024 20:21:15 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:21:15 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:21:15 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:21:15 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:21:15 devpinoyLogger false
+23/06/2024 20:21:15 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:21:15 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:21:15 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:21:15 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:21:15 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:21:15 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:21:15 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:21:15 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:21:15 devpinoyLogger false
+23/06/2024 20:21:15 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:21:15 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:21:15 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:21:15 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:21:18 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 20:21:18 devpinoyLogger buyer name is Noise India
+23/06/2024 20:21:18 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (1abbb50937ccbd013eb4381b6b77a93f)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 20:21:18 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 20:21:23 devpinoyLogger Loader is present
+23/06/2024 20:21:24 devpinoyLogger Loader is not visible after: 1035 ms
+23/06/2024 20:21:25 devpinoyLogger clicked on textfield
+23/06/2024 20:21:25 devpinoyLogger entered the buyer name
+23/06/2024 20:21:34 devpinoyLogger Browser closed
+23/06/2024 20:22:52 devpinoyLogger Config file loaded
+23/06/2024 20:22:52 devpinoyLogger OR file loaded
+23/06/2024 20:22:54 devpinoyLogger Chrome instance created
+23/06/2024 20:22:58 devpinoyLogger Navigated to URL
+23/06/2024 20:22:58 devpinoyLogger Browser maximized
+23/06/2024 20:22:58 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:22:58 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:22:58 devpinoyLogger Runmode for login: Y
+23/06/2024 20:22:58 devpinoyLogger false
+23/06/2024 20:22:58 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:22:58 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:22:58 devpinoyLogger Runmode for login: Y
+23/06/2024 20:22:58 devpinoyLogger Inside login test 
+23/06/2024 20:22:58 devpinoyLogger element is presentLOGINBUTTON_Css
+23/06/2024 20:22:58 devpinoyLogger clicked on elementLOGINBUTTON_Css
+23/06/2024 20:22:59 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:22:59 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:22:59 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:22:59 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:22:59 devpinoyLogger false
+23/06/2024 20:22:59 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:22:59 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:22:59 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:22:59 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:23:02 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 20:23:02 devpinoyLogger buyer name is MAYTOU
+23/06/2024 20:23:03 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (e6914ae53612db34687b6f5626574cee)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 20:23:03 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 20:23:08 devpinoyLogger Loader is present
+23/06/2024 20:23:09 devpinoyLogger Loader is not visible after: 1036 ms
+23/06/2024 20:23:09 devpinoyLogger clicked on textfield
+23/06/2024 20:23:09 devpinoyLogger entered the buyer name
+23/06/2024 20:23:20 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:23:20 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:23:20 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:23:20 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:23:20 devpinoyLogger false
+23/06/2024 20:23:20 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:23:20 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:23:20 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:23:20 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:23:20 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:23:20 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:23:20 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:23:20 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:23:20 devpinoyLogger false
+23/06/2024 20:23:20 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:23:20 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:23:20 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:23:20 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:23:23 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 20:23:23 devpinoyLogger buyer name is Noise India
+23/06/2024 20:23:23 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (e6914ae53612db34687b6f5626574cee)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 20:23:23 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 20:23:28 devpinoyLogger Loader is present
+23/06/2024 20:23:29 devpinoyLogger Loader is not visible after: 1030 ms
+23/06/2024 20:23:29 devpinoyLogger clicked on textfield
+23/06/2024 20:23:29 devpinoyLogger entered the buyer name
+23/06/2024 20:23:41 devpinoyLogger Browser closed
+23/06/2024 20:26:32 devpinoyLogger Config file loaded
+23/06/2024 20:26:32 devpinoyLogger OR file loaded
+23/06/2024 20:26:35 devpinoyLogger Chrome instance created
+23/06/2024 20:26:37 devpinoyLogger Navigated to URL
+23/06/2024 20:26:37 devpinoyLogger Browser maximized
+23/06/2024 20:26:37 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:26:37 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:26:37 devpinoyLogger Runmode for login: Y
+23/06/2024 20:26:37 devpinoyLogger false
+23/06/2024 20:26:37 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:26:37 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:26:37 devpinoyLogger Runmode for login: Y
+23/06/2024 20:26:37 devpinoyLogger Inside login test 
+23/06/2024 20:26:38 devpinoyLogger element is presentLOGINBUTTON_Css
+23/06/2024 20:26:38 devpinoyLogger clicked on elementLOGINBUTTON_Css
+23/06/2024 20:26:39 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:26:39 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:26:39 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:26:39 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:26:39 devpinoyLogger false
+23/06/2024 20:26:39 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:26:39 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:26:39 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:26:39 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:26:42 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 20:26:42 devpinoyLogger buyer name is MAYTOU
+23/06/2024 20:26:42 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (a7ce6221541e20a68034777c46d20a4f)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 20:26:42 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 20:26:47 devpinoyLogger Loader is present
+23/06/2024 20:26:48 devpinoyLogger Loader is not visible after: 1032 ms
+23/06/2024 20:26:48 devpinoyLogger clicked on textfield
+23/06/2024 20:26:48 devpinoyLogger entered the buyer name
+23/06/2024 20:26:59 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:26:59 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:26:59 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:26:59 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:26:59 devpinoyLogger false
+23/06/2024 20:26:59 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:26:59 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:26:59 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:26:59 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:26:59 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:26:59 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:26:59 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:26:59 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:26:59 devpinoyLogger false
+23/06/2024 20:26:59 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:26:59 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:26:59 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:26:59 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:27:02 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 20:27:02 devpinoyLogger buyer name is Noise India
+23/06/2024 20:27:02 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (a7ce6221541e20a68034777c46d20a4f)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 20:27:02 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 20:27:07 devpinoyLogger Loader is present
+23/06/2024 20:27:08 devpinoyLogger Loader is not visible after: 1035 ms
+23/06/2024 20:27:08 devpinoyLogger clicked on textfield
+23/06/2024 20:27:08 devpinoyLogger entered the buyer name
+23/06/2024 20:27:18 devpinoyLogger Browser closed
+23/06/2024 20:28:33 devpinoyLogger Config file loaded
+23/06/2024 20:28:33 devpinoyLogger OR file loaded
+23/06/2024 20:28:36 devpinoyLogger Chrome instance created
+23/06/2024 20:28:38 devpinoyLogger Navigated to URL
+23/06/2024 20:28:38 devpinoyLogger Browser maximized
+23/06/2024 20:28:38 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:28:38 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:28:38 devpinoyLogger Runmode for login: Y
+23/06/2024 20:28:38 devpinoyLogger false
+23/06/2024 20:28:38 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:28:38 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:28:38 devpinoyLogger Runmode for login: Y
+23/06/2024 20:28:38 devpinoyLogger Inside login test 
+23/06/2024 20:28:39 devpinoyLogger element is presentLOGINBUTTON_Css
+23/06/2024 20:28:39 devpinoyLogger clicked on elementLOGINBUTTON_Css
+23/06/2024 20:28:40 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:28:40 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:28:40 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:28:40 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:28:40 devpinoyLogger false
+23/06/2024 20:28:40 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:28:40 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:28:40 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:28:40 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:28:43 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 20:28:43 devpinoyLogger buyer name is MAYTOU
+23/06/2024 20:28:43 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (39160d6555a64326d7ebd0774c1b1c21)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 20:28:43 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 20:28:48 devpinoyLogger Loader is present
+23/06/2024 20:28:49 devpinoyLogger Loader is not visible after: 1033 ms
+23/06/2024 20:28:50 devpinoyLogger clicked on textfield
+23/06/2024 20:28:50 devpinoyLogger entered the buyer name
+23/06/2024 20:29:00 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:29:00 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:29:00 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:29:00 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:29:00 devpinoyLogger false
+23/06/2024 20:29:00 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:29:00 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:29:00 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:29:00 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:29:00 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:29:00 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:29:00 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:29:00 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:29:00 devpinoyLogger false
+23/06/2024 20:29:00 devpinoyLogger Total rows in Suite sheet: 3
+23/06/2024 20:29:00 devpinoyLogger Checking testcase at row 1: login
+23/06/2024 20:29:00 devpinoyLogger Checking testcase at row 2: navigatetobuyer
+23/06/2024 20:29:00 devpinoyLogger Runmode for navigatetobuyer: Y
+23/06/2024 20:29:03 devpinoyLogger Executing NavigateToBuyer
+23/06/2024 20:29:03 devpinoyLogger buyer name is Noise India
+23/06/2024 20:29:03 devpinoyLogger Clicked on element using js[[ChromeDriver: chrome on windows (39160d6555a64326d7ebd0774c1b1c21)] -> xpath: //li[@id='buyer']/a//div/following-sibling::div]
+23/06/2024 20:29:03 devpinoyLogger entered loadermethoddisplay: block;
+23/06/2024 20:29:08 devpinoyLogger Loader is present
+23/06/2024 20:29:09 devpinoyLogger Loader is not visible after: 1032 ms
+23/06/2024 20:29:09 devpinoyLogger clicked on textfield
+23/06/2024 20:29:09 devpinoyLogger entered the buyer name
+23/06/2024 20:29:21 devpinoyLogger Browser closed
