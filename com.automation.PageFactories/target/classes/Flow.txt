@@ -1,0 +1,19 @@
+
+how i have impliment
+All the essential methodsare been declared as abstract method interface which is then implimented by the base class
+we have all the initlization functions , generic actions  performing methods present in this class as click 
+click with js and etc  .
+
+all the evironment variables are been declared in constants class and we are consuming from there as constants.variablename
+
+for every page  i am creating a class wherein  ihave created functions for elements  
+this class has a contructor for its own as i have declare a private locatorclass variable (name depends on which   for which locators are stored)
+
+this is been initalized by the object that is been created for the locatorclass and pagefactory,initelements intilizes these locators having parameter as driver and this.locators
+
+in locator class i am storing the locators with findby annotation and below setting it to webelement; 
+
+which is then accessed by class.locatorname
+
+to handle dynamic elements a clss is created and if any page rquires action pbased on parameter the method created for that element should have called the forrmatter class where it it will hanlde %s
+and give back the xpath then in the same method we can call the webelemnt and generic methods from page class
